@@ -1,6 +1,7 @@
 ## `Hey There!`  👋, I'm Mahmoud Sharara</h1>
 <h3 align="center">A passionate DevOps/Cloud Engineer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudshrara&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudshrara" /> </p>
 
 
 - 🔭 I’m currently working on polishing and learning **DevOps**
