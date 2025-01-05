@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on polishing and learning **DevOps**
 
-- 🌱 I’m currently learning **Python, Kubernetes, Docker, Terraform**
+- 🌱 I’m currently learning **AWS, Kubernetes, Docker, Terraform**
 
 
 - 💬 Ask me about **DevOps/Cloud**
