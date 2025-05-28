@@ -23,3 +23,25 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
+
+### 📚 Certifications
+
+#### 🐧 Linux Foundation & Kubernetes Certifications
+- [KCNA – Kubernetes and Cloud Native Associate](https://www.credly.com/badges/5705a80b-7c92-4971-84d2-7a63100888fa/public_url)
+- [CKA – Certified Kubernetes Administrator](https://www.credly.com/badges/fbaddaca-2230-43a7-a874-b729eed83191/public_url)
+
+
+
+#### ☁️ Cloud Certifications
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/d8e70684-cf20-46b7-9704-bfee07989717/public_url)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/sharara99/E737498CEDB8B326?sharingId=E3BF57C9CF5B9EAB)
+- [Huawei Cloud Certified Developer Associate (HCCDA)](https://fs-intl-en-us.connect.huaweicloud.com/FileServer/getFile/vector/011/111/111/0000000000011111111.20241231161000.77880573472240676492351872527783:50560302085124:2800:B460F7A735EB5973E987FF9F278DB443688A52535D0075A420C3DBAAD8083598.png)
+
+---
+
+### 📩 Reach me at:
+📧 mahmoodshrara@gmail.com
+📱 +20 110 275 3413  
+🌍 Based in Giza, Egypt  
+
+
