@@ -41,7 +41,9 @@
 
 ### 📩 Reach me at:
 📧 mahmoodshrara@gmail.com
+
 📱 +20 110 275 3413  
+
 🌍 Based in Giza, Egypt  
 
 
